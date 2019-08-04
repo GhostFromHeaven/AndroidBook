@@ -46,4 +46,4 @@
 
 ### 效果
 
-![](assets/shape.png)
+![](./assets/shape.png)
