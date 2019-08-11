@@ -4,10 +4,25 @@
 * EditExt done
 * Button done
 * ImageButton
-
+* RadioButton
+* Shape
+* CheckBox
+* DatePicker
+* TimePicker
+* Chronometer
+* ProgressBar
+* SeekBar
+* RatingBar
+* ImageVidew
+* ImageSwitcher
+* GridView
+* Spinner
+* ListView
+* ScroolView
+* Tab
 
 ## TODO列表
-* shape
+* tab
 * selector
 
 
